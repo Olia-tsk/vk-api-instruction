@@ -8,3 +8,16 @@
 .container img {
   width: 100%;
 }
+
+ol > li {
+  margin-bottom: 25px;
+}
+
+ol > li > img {
+  margin: 5px 0;
+}
+
+code {
+  display: block;
+  margin: 5px 0;
+}
